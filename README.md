@@ -15,3 +15,12 @@ This is a HTML5 Video Player built on top of mediaelement; ready to use with Rai
   });
   </script>
 ```
+
+3) The following is sample code to paste into `body`
+```bash
+
+<video width="640" height="267">
+    <source src="http://embed.wistia.com/deliveries/afe41e4a3b366c5599fb17d96c469ad85007e2df/file.mp4" type="video/mp4">
+</video>
+```
+![Alt text](/tim-html5-video.jpg)
