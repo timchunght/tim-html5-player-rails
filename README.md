@@ -24,3 +24,7 @@ This is a HTML5 Video Player built on top of mediaelement; ready to use with Rai
 </video>
 ```
 ![Alt text](https://raw.githubusercontent.com/timchunght/tim-html5-player-rails/master/tim-html5-video.png)
+
+Modified and Styled by Timothy Chung
+
+Special thanks to Designmodo for their free UI assets!
