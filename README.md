@@ -25,6 +25,10 @@ This is a HTML5 Video Player built on top of mediaelement; ready to use with Rai
 ```
 ![Alt text](https://raw.githubusercontent.com/timchunght/tim-html5-player-rails/master/tim-html5-video.png)
 
+Click [demo](https://timplayer.herokuapp.com/) for a live version.
+
+You can also fork the demo [here](https://github.com/timchunght/tim-html5-player-rails)
+
 Modified and Styled by Timothy Chung
 
 Special thanks to Designmodo for their free UI assets!
