@@ -31,7 +31,7 @@ You can also fork the demo app [here](https://github.com/timchunght/timplayerdem
 
 Modified and Styled by Timothy Chung
 
-Copyright [Timothy Chung](www.linkedin.com/in/timchunght)
+Copyright [Timothy Chung](https://www.linkedin.com/in/timchunght)
 
 Please feel free to use it for any of your projects
 
