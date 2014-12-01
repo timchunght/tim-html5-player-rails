@@ -1,4 +1,7 @@
+TimPlayer: HTML5 Video Player that is an Open Source and beautiful alternative to Vimeo, JWPlayer, VideoJS, Youtube, Wistia
+
 This is a HTML5 Video Player built on top of mediaelement; ready to use with Rails
+
 
 1) To use the Video player, copy the three folders into the assets directory and replace/merge them with the existing folders
 
